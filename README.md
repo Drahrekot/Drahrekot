@@ -10,8 +10,8 @@
 ### ✨ About Me
 - 🔧 Currently experimenting with **Hackintosh builds** and **Raspberry Pi projects**
 - 💡 Passionate about **automation, tinkering, and reverse engineering**
-- 🛠️ Always exploring **Linux, Python, C#, Docker, and embedded systems**
-- 🎮 Sometimes messing around with **Unity game dev & emulation setups**
+- 🛠️ Always exploring **Linux, Python, C#, and embedded systems**
+- 🎮 Sometimes messing around with **Unity/Godot game engine**
 
 ---
 

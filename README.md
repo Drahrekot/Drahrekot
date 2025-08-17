@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Vityuth</h1>
 
 <p align="center">
-  🤖 Android Dev• Hackintosh tinkerer 💻 • RPi4 enthusiast 👾 • Python & C# dev 🐍⚡ • Linux lover 🐧
+  🤖 Android Dev • Hackintosh tinkerer 💻 • RPi4 enthusiast 👾 • Python & C# dev 🐍⚡ • Linux lover 🐧
 </p>
 
 ---

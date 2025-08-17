@@ -2,13 +2,13 @@
 <h1 align="center">Hey 👋, I'm Vityuth</h1>
 
 <p align="center">
-  🚀 Hacker of all trades • Hackintosh tinkerer 💻 • RPi4 enthusiast 👾 • Python & C# dev 🐍⚡ • Linux lover 🐧
+  🤖 Android Dev• Hackintosh tinkerer 💻 • RPi4 enthusiast 👾 • Python & C# dev 🐍⚡ • Linux lover 🐧
 </p>
 
 ---
 
 ### ✨ About Me
-- 🔧 Currently experimenting with **Hackintosh builds** and **Raspberry Pi homelab projects**
+- 🔧 Currently experimenting with **Hackintosh builds** and **Raspberry Pi projects**
 - 💡 Passionate about **automation, tinkering, and reverse engineering**
 - 🛠️ Always exploring **Linux, Python, C#, Docker, and embedded systems**
 - 🎮 Sometimes messing around with **Unity game dev & emulation setups**

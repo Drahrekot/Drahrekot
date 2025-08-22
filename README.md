@@ -17,8 +17,8 @@
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Drahrekot" target="_blank"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vityuth-sarvanan-496777292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -39,5 +39,5 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drahrekot&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Drahrekot&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
